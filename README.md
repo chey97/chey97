@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I consider myself an Adaptable, Innovative, and Dependable individual I also consider myself to be an inclusive individual and a team person who can work in different professional and intercultural. I am currently an undergraduate at the University of Kelaniya, Sri Lanka in the field of Computer Science. Meanwhile, I am a volunteer at many social platforms and from that, I gained a huge experience in leadership skills and social work. Also, I was involved in many research projects
+I consider myself an Adaptable, Innovative, and Dependable individual I also consider myself to be an inclusive individual and a team person who can work in different professional and intercultural. I am currently an undergraduate at the University of Kelaniya, Sri Lanka in the field of Computer Science. That sums up pretty much about me. Reach out if you want to create something cool together!
 
 <!--
 **chey97/chey97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
