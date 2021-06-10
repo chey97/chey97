@@ -4,7 +4,7 @@ I consider myself an Adaptable, Innovative, and Dependable individual I also con
 <br/>
 <br/>
 Find me around the web 🌎:
-<br/>
+
 Professional updates on [LinkedIn](https://www.linkedin.com/in/chethiya-galkaduwa-8b0b26159/) 💼<br/>
 Find my fun projects on Github 💻<br/>
 Personal updates on [Instagram](https://www.instagram.com/cyber_trome/) and [Facebook](https://www.facebook.com/chethiya.galkaduwa/) 🎵<br/>
