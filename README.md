@@ -1,7 +1,7 @@
 ### Hi, I'm Chethiya 👋
 <hr>
 
-<img src="https://i.gifer.com/5eKX.gif" width="150" height="40" />
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/5eKX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 I consider myself an Adaptable, Innovative, and Dependable individual I also consider myself to be an inclusive individual and a team person who can work in different professional and intercultural. I am currently an undergraduate at the University of Kelaniya, Sri Lanka in the field of Computer Science. That sums up pretty much about me. Reach out if you want to create something cool together!
 <br>
