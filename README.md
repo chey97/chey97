@@ -4,7 +4,7 @@ I consider myself an Adaptable, Innovative, and Dependable individual I also con
 
 Find me around the web 🌎:
 
-Professional updates on [LinkedIn](https://www.linkedin.com/in/chethiya-galkaduwa-8b0b26159/) 💼🎓
+Professional updates on [LinkedIn](https://www.linkedin.com/in/chethiya-galkaduwa-8b0b26159/) 💼🎓/n
 Find my fun projects on Github 💻😎
 Personal updates on Instagram and Facebook 🎵🎨🎮🎻
 Don't forget to checkout my resume and personal website ✨
