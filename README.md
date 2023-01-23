@@ -11,4 +11,4 @@ Find my fun projects on Github 💻\
 Personal updates on [Instagram](https://www.instagram.com/cyber_trome/) and [Facebook](https://www.facebook.com/chethiya.galkaduwa/) 🎵\
 Don't forget to checkout my [resume](https://drive.google.com/file/d/1FSb3TzmPSL3fy1WpyJnktz2Qk3eHS4ZY/view?usp=sharing) and [personal website](https://chey97.github.io/Chethiya_Galkaduwa.github.io/) ✨
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=chey97)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=chey97)]
